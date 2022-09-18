@@ -35,7 +35,7 @@ header img {
 
 
 body{
-    background-image: url(https://github.com/JonatasTavares1/NLW-esports-explorer/blob/16105da7d8d33900fdb2be7a7692b4d382e35213/assets/bg.jpg);
+    background-image: url(./assets/bg.jpg);
     background-position: top center;
     background-size: 100%;
     background-repeat: no-repeat;
