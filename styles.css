@@ -5,6 +5,10 @@ box-sizing: border-box;
 
 }
 
+ul {
+  list-style: none;
+}
+
 header{
     padding-top: 32px;
     
