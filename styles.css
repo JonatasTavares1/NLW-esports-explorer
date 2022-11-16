@@ -5,9 +5,7 @@ box-sizing: border-box;
 
 }
 
-ul li {
-  list-style: none;
-}
+
 
 header{
     padding-top: 32px;
@@ -96,7 +94,7 @@ section ul{
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
-
+    list-style: none;
 }
 
 section ul li {
